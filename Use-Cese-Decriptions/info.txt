@@ -1,0 +1,43 @@
+ID   |   Use Case
+------------------
+00	Register
+01	Login
+02	View Info
+03	Update Info
+04	Add Exam
+05	View Exam                                        //Faculty Member
+06	Delete Exam
+07	Update Exam
+08	Add Questions
+09	Update Questions
+10	Delete Questions
+11	View Students Scores
+--------------------
+**	Register
+**	Login
+12	Join Course
+13	Drop Course					                            //Student 
+14	View Courses
+15	View Exam Info
+16	Participate in Exam
+17	View Score
+**	View Info
+**	Update Info
+---------------------
+**	Login
+18	Register Admin
+19	Assign/Unassign Course to Fac
+20	Create Course					                            //Admin
+21	Update Course
+**	View Courses
+22	Add/Update Fac,Student
+23	Delete/View Fac,Student
+**	Delete Exam
+
+
+--------------------------------
+Ahmad : 0-5
+Abdulaziz : 6-11
+Abdullah : 12-17
+Abdulsalam : 18-23
+
