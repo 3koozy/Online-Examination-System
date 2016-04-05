@@ -33,6 +33,8 @@ ID   |   Use Case
 22	Add/Update Fac,Student
 23	Delete/View Fac,Student
 **	Delete Exam
+**	Update Info
+**	View Info
 
 
 --------------------------------
